@@ -1,7 +1,7 @@
 {
     "name": "com.transmedia.triggerenteraction",
     "displayName": "Trigger enter action",
-    "version": "0.1.0",
+    "version": "0.1.3",
     "unity": "2020.3",
     "description": "This package add a useful event handler that take care of 'OntriggerEnter' callbacks based on tags or layers, using UnityEvents.",
     "keywords": [
